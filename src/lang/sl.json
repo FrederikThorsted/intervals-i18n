@@ -1106,6 +1106,7 @@
   "Enable beta features": "Omogoči beta funkcije",
   "Enable languages still under development": "Omogočite jezike, ki so še v razvoju",
   "enable_push_notfications_on_device": "Prejmi obvestila na tej napravi",
+  "enable_push_notifications_prompt": "Ali želite na tej napravi prejemati obvestila iz Intervals.icu? Nastavite lahko, katera obvestila se pošiljajo, in omogočite ali onemogočite obvestila v nastavitvah.",
   "End": "Konec",
   "End date": "Končni datum",
   "End Date": "Končni Datum",

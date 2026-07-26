@@ -1106,6 +1106,7 @@
   "Enable beta features": "Aktiver betafunktioner",
   "Enable languages still under development": "Aktiver sprog, der stadig er under udvikling",
   "enable_push_notfications_on_device": "Modtag notifikationer på denne enhed",
+  "enable_push_notifications_prompt": "Vil du modtage notifikationer fra Intervals.icu på denne enhed? Du kan styre, hvilke notifikationer der sendes, og aktivere eller deaktivere notifikationer i indstillingerne.",
   "End": "Ende",
   "End date": "Slutdato",
   "End Date": "Slutdato",

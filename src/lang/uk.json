@@ -1106,6 +1106,7 @@
   "Enable beta features": "Увімкнути бета-функції",
   "Enable languages still under development": "Увімкнути мови, які ще розробляються",
   "enable_push_notfications_on_device": "Отримуйте сповіщення на цьому пристрої",
+  "enable_push_notifications_prompt": "Чи бажаєте ви отримувати сповіщення від Intervals.icu на цьому пристрої? У налаштуваннях ви можете вибрати, які сповіщення надсилати, а також увімкнути або вимкнути сповіщення.",
   "End": "Кінець",
   "End date": "Кінчева дата",
   "End Date": "Кінчева Дата",

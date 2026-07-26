@@ -1106,6 +1106,7 @@
   "Enable beta features": "Beta özellikleri etkinleştir",
   "Enable languages still under development": "Hâlâ geliştirilmekte olan dilleri etkinleştir",
   "enable_push_notfications_on_device": "Bu cihazda bildirim al",
+  "enable_push_notifications_prompt": "Bu cihazda Intervals.icu'dan bildirim almak ister misiniz? Hangi bildirimlerin gönderileceğini kontrol edebilir ve ayarlardan bildirimleri etkinleştirip devre dışı bırakabilirsiniz.",
   "End": "Bitiş",
   "End date": "Bitiş tarihi",
   "End Date": "Bitiş Tarihi",

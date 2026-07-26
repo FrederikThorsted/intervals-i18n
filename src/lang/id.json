@@ -1106,6 +1106,7 @@
   "Enable beta features": "Aktifkan fitur beta",
   "Enable languages still under development": "Aktifkan bahasa yang masih dalam pengembangan",
   "enable_push_notfications_on_device": "Terima notifikasi di perangkat ini",
+  "enable_push_notifications_prompt": "Apakah Anda ingin menerima notifikasi dari Intervals.icu di perangkat ini? Anda dapat mengontrol notifikasi mana yang dikirim dan mengaktifkan atau menonaktifkan notifikasi di pengaturan.",
   "End": "Akhir",
   "End date": "Tanggal akhir",
   "End Date": "Tanggal Akhir",

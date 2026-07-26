@@ -1106,6 +1106,7 @@
   "Enable beta features": "Béta funkciók engedélyezése",
   "Enable languages still under development": "A még fejlesztés alatt álló nyelvek engedélyezése",
   "enable_push_notfications_on_device": "Értesítések fogadása ezen az eszközön",
+  "enable_push_notifications_prompt": "Szeretne értesítéseket kapni az Intervals.icu-tól ezen az eszközön? Beállításokban szabályozhatja, hogy mely értesítések érkezzenek, és engedélyezheti vagy letilthatja az értesítéseket.",
   "End": "Befejezés",
   "End date": "Befejezés dátuma",
   "End Date": "Befejezés dátuma",

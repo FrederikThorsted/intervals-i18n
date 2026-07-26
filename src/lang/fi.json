@@ -1106,6 +1106,7 @@
   "Enable beta features": "Ota beetatoiminnot käyttöön",
   "Enable languages still under development": "Ota käyttöön kehitysvaiheessa olevat kielet",
   "enable_push_notfications_on_device": "Vastaanota ilmoituksia tällä laitteella",
+  "enable_push_notifications_prompt": "Haluatko vastaanottaa ilmoituksia Intervals.iculta tällä laitteella? Voit hallita, mitkä ilmoitukset lähetetään, ja ottaa ilmoitukset käyttöön tai poistaa ne käytöstä asetuksissa.",
   "End": "Loppu",
   "End date": "Loppupäivä",
   "End Date": "Loppupäivä",

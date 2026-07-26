@@ -1106,6 +1106,7 @@
   "Enable beta features": "Activar funciones beta",
   "Enable languages still under development": "Habilitar las lenguas aún en desarrollo",
   "enable_push_notfications_on_device": "Recibir notificaciones en este dispositivo",
+  "enable_push_notifications_prompt": "¿Le gustaría recibir notificaciones de Intervals.icu en este dispositivo? Puede controlar qué notificaciones se envían y habilitar o deshabilitar las notificaciones en la configuración.",
   "End": "Fin",
   "End date": "Fecha final",
   "End Date": "Fecha final",

@@ -1106,6 +1106,7 @@
   "Enable beta features": "ベータ機能を有効にする",
   "Enable languages still under development": "開発中の言語を有効にする",
   "enable_push_notfications_on_device": "この端末で通知を受け取る",
+  "enable_push_notifications_prompt": "この端末でIntervals.icuからの通知を受け取りたいですか？設定画面で、どの通知を受け取るかを選択したり、通知のオン／オフを切り替えたりすることができます。",
   "End": "終了",
   "End date": "終了日時",
   "End Date": "終了日時",
