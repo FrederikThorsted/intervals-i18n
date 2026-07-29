@@ -2066,6 +2066,8 @@
   "Only image files are supported": "Sólo se admiten archivos de imagen",
   "Only new activities available": "Sólo hay nuevas actividades disponibles",
   "Only yourself": "Solo tu mismo",
+  "only_send_for_athletes_tagged": "Enviar solo para atletas etiquetados",
+  "only_send_for_athletes_tagged_blurb": "Enviar notificaciones relacionadas con la actividad solo para atletas entrenados y seguidos con una de estas etiquetas",
   "Opacity": "Opacidad",
   "Open": "Abrir",
   "Open Chat": "Conversación abierta",

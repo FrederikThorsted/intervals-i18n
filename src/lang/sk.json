@@ -2066,6 +2066,8 @@
   "Only image files are supported": "Podporované sú len obrazové súbory",
   "Only new activities available": "K dispozícii sú len nové aktivity",
   "Only yourself": "Iba vy",
+  "only_send_for_athletes_tagged": "Posielať iba pre označených športovcov",
+  "only_send_for_athletes_tagged_blurb": "Posielať upozornenia týkajúce sa aktivity iba pre trénovaných a sledovaných športovcov s jednou z týchto značiek",
   "Opacity": "Priehľadnosť",
   "Open": "Otvoriť",
   "Open Chat": "Otvorený chat",

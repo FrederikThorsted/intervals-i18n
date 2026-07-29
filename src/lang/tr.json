@@ -2066,6 +2066,8 @@
   "Only image files are supported": "Yalnızca görsel dosyalar desteklenir",
   "Only new activities available": "Yalnızca yeni aktiviteler mevcut",
   "Only yourself": "Yalnızca kendin",
+  "only_send_for_athletes_tagged": "Sadece etiketlenmiş sporculara gönder",
+  "only_send_for_athletes_tagged_blurb": "Bu etiketlerden birine sahip koçluk yapılan ve takip edilen sporcular için yalnızca aktivite ile ilgili bildirimleri gönder",
   "Opacity": "Opaklık",
   "Open": "Aç",
   "Open Chat": "Sohbeti Aç",

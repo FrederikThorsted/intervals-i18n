@@ -2066,6 +2066,8 @@
   "Only image files are supported": "只支持图像文件",
   "Only new activities available": "有新的活动可用",
   "Only yourself": "只有你自己",
+  "only_send_for_athletes_tagged": "仅发送给标记的运动员",
+  "only_send_for_athletes_tagged_blurb": "仅向带有以下标签的被指导和关注的运动员发送与活动相关的通知",
   "Opacity": "不透明度",
   "Open": "打开",
   "Open Chat": "打开聊天",

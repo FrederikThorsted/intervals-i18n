@@ -2066,6 +2066,8 @@
   "Only image files are supported": "Es werden nur Bilddateien unterstützt",
   "Only new activities available": "Nur neue Aktivitäten verfügbar",
   "Only yourself": "Nur du selbst",
+  "only_send_for_athletes_tagged": "Nur an markierte Athleten senden",
+  "only_send_for_athletes_tagged_blurb": "Sende Aktivitätsbenachrichtigungen nur für betreute und verfolgte Athleten mit einem dieser Tags",
   "Opacity": "Deckkraft",
   "Open": "Öffnen",
   "Open Chat": "Chat öffnen",

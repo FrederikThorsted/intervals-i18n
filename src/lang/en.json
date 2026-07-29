@@ -2066,6 +2066,8 @@
   "Only image files are supported": "Only image files are supported",
   "Only new activities available": "Only new activities available",
   "Only yourself": "Only yourself",
+  "only_send_for_athletes_tagged": "Only send for athletes tagged",
+  "only_send_for_athletes_tagged_blurb": "Only send activity related notifications for coached and followed athletes with one of these tags",
   "Opacity": "Opacity",
   "Open": "Open",
   "Open Chat": "Open Chat",

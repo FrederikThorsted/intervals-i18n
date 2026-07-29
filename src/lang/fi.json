@@ -2066,6 +2066,8 @@
   "Only image files are supported": "Vain kuvamuodot ovat tuettuja",
   "Only new activities available": "Vain uudet aktiviteetit saatavilla",
   "Only yourself": "Vain sinä itse",
+  "only_send_for_athletes_tagged": "Lähetä vain merkittyjen urheilijoiden tiedot",
+  "only_send_for_athletes_tagged_blurb": "Lähetä aktiivisuuteen liittyvät ilmoitukset vain valmennettaville ja seurattaville urheilijoille, joilla on jokin näistä tageista",
   "Opacity": "Läpinäkyvyys",
   "Open": "Avaa",
   "Open Chat": "Avaa keskustelu",

@@ -2066,6 +2066,8 @@
   "Only image files are supported": "Csak képfájlok támogatottak",
   "Only new activities available": "Csak új tevékenységek állnak rendelkezésre",
   "Only yourself": "Csak magadnak",
+  "only_send_for_athletes_tagged": "Csak a megjelölt sportolóknak küldje el",
+  "only_send_for_athletes_tagged_blurb": "Csak az edző által követett és megjelölt sportolók számára küldjön aktivitással kapcsolatos értesítéseket",
   "Opacity": "Átlátszatlanság",
   "Open": "Megnyitás",
   "Open Chat": "Nyisd meg a Csevegést",

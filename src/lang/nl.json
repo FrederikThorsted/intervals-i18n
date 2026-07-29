@@ -2066,6 +2066,8 @@
   "Only image files are supported": "Alleen afbeeldingsbestanden worden ondersteund",
   "Only new activities available": "Alleen nieuwe activiteiten beschikbaar",
   "Only yourself": "Alleen jij",
+  "only_send_for_athletes_tagged": "Alleen verzenden voor atleten met een tag",
+  "only_send_for_athletes_tagged_blurb": "Alleen activiteitgerelateerde meldingen verzenden voor gecoachte en gevolgde atleten met een van deze tags",
   "Opacity": "Dekking",
   "Open": "Openen",
   "Open Chat": "Open Chat",

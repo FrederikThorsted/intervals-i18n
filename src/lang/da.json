@@ -2066,6 +2066,8 @@
   "Only image files are supported": "Kun billedfiler understøttes",
   "Only new activities available": "Kun nye aktiviteter tilgængelige",
   "Only yourself": "Kun dig selv",
+  "only_send_for_athletes_tagged": "Send kun til atleter med tag",
+  "only_send_for_athletes_tagged_blurb": "Send kun aktivitetsrelaterede notifikationer til trænede og fulgte atleter med et af disse tags",
   "Opacity": "Opacitet",
   "Open": "Åben",
   "Open Chat": "Åbn Chat",
